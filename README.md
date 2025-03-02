@@ -27,7 +27,7 @@ To address these issues, an RFID-based access control system is proposed. This s
 ![Canvas model](images/foto-2.png)
 
 
-### Blynk Ekranından Görseller
+### Visuals from the Blynk Screen
 
 ![blynk](images/foto-1.png)
 
